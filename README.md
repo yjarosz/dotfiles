@@ -1,4 +1,4 @@
 dotfiles
 ========
 
-configurations files
+User configuration files
